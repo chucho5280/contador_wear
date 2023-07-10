@@ -1,16 +1,11 @@
 # contador_wearable
 
-A new Flutter project.
+Contador en Flutter para dispositivo Wear OS
 
-## Getting Started
+Este contador cuenta con un timite el cual es que al numero 15 se detiene y arroja un mensaje indicando el limite
 
-This project is a starting point for a Flutter application.
+![Wear](https://github.com/chucho5280/contador_wear/assets/96545330/880a31dc-000b-4f61-92a1-17ca84c9394f)
 
-A few resources to get you started if this is your first Flutter project:
+![15](https://github.com/chucho5280/contador_wear/assets/96545330/38770530-b352-4163-96af-a224de097186)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![-15](https://github.com/chucho5280/contador_wear/assets/96545330/4d3537fc-b7ab-42a5-9006-407bbdbda498)
